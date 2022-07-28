@@ -1,0 +1,10 @@
+#	verify speed (verify/s)
+rsa2048	nan
+rsa4096	nan
+dsa2048	nan
+ecdsap256	nan
+ecdsap384	nan
+ecdsap521	nan
+ecdhp256	nan
+ecdhp384	nan
+ecdhp521	nan

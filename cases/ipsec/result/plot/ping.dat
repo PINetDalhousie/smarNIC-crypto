@@ -1,0 +1,5 @@
+#                   SmartNIC                Server                  
+# type              min     avg     max     min     avg     max  
+"Baseline"          0.055   0.238   0.055   0.018   0.689   0.018
+"AES-256-CBC"       0.069   0.355   0.069   0.031   0.781   0.031
+"AES-256-GCM"       0.081   0.363   0.081   0.020   0.760   0.020
